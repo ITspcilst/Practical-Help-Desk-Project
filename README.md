@@ -68,13 +68,13 @@ It also reinforced my ability to follow instructions precisely, maintain account
 ## 📸 Screenshot
 Below is the screenshot showing the **Richard** account successfully created and added to the **Administrators** group.
 
-![Screenshot of Richard user account setup](C9E9E6CA-E862-442A-A018-8544EB031E0C.jpeg)
+![net localgorup administrators](Screenshots/Richard_administrator_setup02.png)
 
 ---
 
 ## 🎥 Demonstration Video
 Click below to watch my short video demonstration of the process:  
-[🎬 Watch Demonstration Video](https://youtu.be/your-video-link)
+[🎬 Watch Demonstration Video](Screenshots/Richard_admin_setup_final.mp4)
 
 ---
 
