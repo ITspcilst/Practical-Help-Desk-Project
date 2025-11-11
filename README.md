@@ -1,4 +1,4 @@
-# 🖥️ Practical Help Desk Project – Add User to Windows VM Client01
+# 🖥️ Practical Help Desk Project – Add User to Windows Machine
 
 ---
 
@@ -26,7 +26,7 @@ This task allowed me to practice essential **Windows system administration** and
 
 ## ⚙️ Environment Used
 - **Operating System:** Windows 10 Pro  
-- **Environment:** Local system / Virtual lab  
+- **Environment:** Local system  
 - **Tools Used:**  
   - Local Users and Groups Manager (`lusrmgr.msc`)  
   - Command Prompt (for verification)  
@@ -80,5 +80,7 @@ Click below to watch my short video demonstration of the process:
 
 ## 🏷️ Tags
 `#HelpDesk` `#WindowsAdministration` `#UserManagement` `#ITSupport` `#PracticalProject` `#CybersecurityFundamentals`
+
+made by Szilard
 
 ---
