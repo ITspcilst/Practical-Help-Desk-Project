@@ -1,9 +1,9 @@
-# 🖥️ Practical Help Desk Project – Add User to Windows Computer
+# 🖥️ Practical Help Desk Project – Add User to Windows VM Client01
 
 ---
 
 ## 📘 Overview
-This project demonstrates a real-world **Help Desk support task** in which I was required to create a **local administrator account** on a Windows computer.  
+This project demonstrates a real-world **Help Desk support task** in which I was required to create a **local administrator account** on a Windows VM.  
 The help desk ticket requested that I add a user named **“Richard”**, enforce a **password change at first login**, and make the user a **local administrator**.  
 This task allowed me to practice essential **Windows system administration** and **technical support** procedures used in professional IT environments.
 
