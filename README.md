@@ -74,7 +74,7 @@ Below is the screenshot showing the **Richard** account successfully created and
 
 ## 🎥 Demonstration Video
 Click below to watch my short video demonstration of the process:  
-[🎬 Watch Demonstration Video](Screenshots/Richard_admin_setup_final.mp4)
+[🎬 Watch Demonstration Video](https://drive.google.com/file/d/1On2xA_YB6lgZd5WfwW2rX4wT76sPa-ZU/view?usp=drive_link)
 
 ---
 
